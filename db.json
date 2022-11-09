@@ -1,0 +1,530 @@
+{
+    "slidedatatv":[
+      {
+        "title":"Kundali Bhagya",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-366/cover/1920x770126fa06f926048bf8125944ea2814207.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366",
+        "id":1
+      },
+      {
+        "title":"Bhagya laxmi",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-3392/cover/1920x770f3f17699f7f5449d97081bd147f44b67.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392",
+        "id":2
+      },
+      {
+        "title":"Pyaar ke pehla naam : Radha Mohan",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5130241/cover/1920x7700c9861201ffe4ebca2c0a6ecb1575170.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/pyar-ka-pehla-naam-radha-mohan/0-6-4z5130241",
+        "id":3
+      },
+      {
+        "title":"Sanjog",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5185799/cover/1920x770cbc14f81a69a453c8646dd450bc289c9.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/sanjog/0-6-4z5185799",
+        "id":4
+      },
+      {
+        "title":"Main hoon Aparijita",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5214664/cover/1920x7708ed66fa4cb534d95b3e6c15208e99dce.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664",
+        "id":5
+      }
+  
+    ],
+    "slidedatahome":[
+      {
+        "title":"Khuda-Hafeez",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/cover/1920x770624681d282d348569ae038134fb002f847561990dc274badb1e1b41c74423b34.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-khuda-haafiz-chapter-2-agni-pariksha-full-hd-movie-online-on-zee5/0-0-1z5206274",
+        "id":1
+      },
+      {
+        "title":"Rangbaaz",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/cover/1920x77077519c4212e549d39a36690eec17509e.jpg",
+        "link":"https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+        "id":2
+      },
+      {
+        "title":"Atithi Bhooto bhavah",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5218775/cover/1920x770caf89748d24946bd8f410be2aa2f351d.jpg",
+        "link":"https://www.zee5.com/movies/details/atithi-bhooto-bhava/0-0-1z5218775",
+        "id":3
+      },
+      {
+        "title":"Sanjog",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5185799/cover/1920x770cbc14f81a69a453c8646dd450bc289c9.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/sanjog/0-6-4z5185799",
+        "id":4
+      },
+      {
+        "title":"Duranga",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5193948/cover/1920x770b90f094643b54d1193e437a5ba25b97c.jpg",
+        "link":"https://www.zee5.com/web-series/details/duranga/0-6-4z5193948",
+        "id":5
+      }
+  
+    ],
+    "slidedatamovie":[
+      {
+        "title":"Minnions : Rise of guru",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5226610/cover/1920x7709e36e0e7f6c84b4a96289b0f321c5d43.jpg",
+        "link":"https://www.zee5.com/movies/details/minions-the-rise-of-gru/0-0-1z5226610",
+        "id":1
+      },
+      {
+        "title":"Khuda-Hafeez",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/cover/1920x770624681d282d348569ae038134fb002f847561990dc274badb1e1b41c74423b34.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-khuda-haafiz-chapter-2-agni-pariksha-full-hd-movie-online-on-zee5/0-0-1z5206274",
+        "id":2
+      },
+   
+      {
+        "title":"Janhit mein jaari",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/cover/1920x7703b607b59630842e4880220402e4bce7973b9535d9e7b49a287ba4a9996100e95.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-janhit-mein-jaari-full-hd-movie-online-on-zee5/0-0-1z5177236",
+        "id":3
+      },
+      {
+        "title":"Rahtra Kavach Om",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5191648/cover/1920x770902b507035da4963aa771afbadfcb032.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-rashtra-kavach-om-full-hd-movie-online-on-zee5/0-0-1z5191648",
+         "id":4
+      },
+      {
+        "title":"Jurassic World Dominion",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214599/cover/1920x770be7ef3576c2b46ac8bf91788e1076c5f.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-jurassic-world-dominion-full-hd-movie-online-on-zee5/0-0-1z5214599",
+        "id":5
+      }
+  
+    ],
+    "slidedataweb":[
+      {
+        "title":"The Broken News",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/cover/1920x770abf42130d9cf41dab2bf9e648cf3193b4100d873cc6547a8a4a4c92739160b3f.jpg",
+        "link":"https://www.zee5.com/web-series/details/the-broken-news/0-6-4z5145215",
+        "id":1
+      },
+      {
+        "title":"Rangbaaz",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/cover/1920x77077519c4212e549d39a36690eec17509e.jpg",
+        "link":"https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+        "id":2
+      },
+      {
+        "title":"Abhay",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-1298/cover/1920x770d9ead07e5b304a989d85cf8c6e0113fb.jpg",
+        "link":"https://www.zee5.com/web-series/details/abhay/0-6-1298",
+        "id":3
+      },
+      {
+        "title":"Never Kiss Your Best Friend",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-2356/cover/1920x770ffdfc616c75840cf95545cd67e3476d6e2fb2ce4623c4ebaa29b36ba97edf983.jpg",
+        "link":"https://www.zee5.com/web-series/details/never-kiss-your-best-friend/0-6-2356",
+        "id":4
+      },
+      {
+        "title":"Duranga",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5193948/cover/1920x770b90f094643b54d1193e437a5ba25b97c.jpg",
+        "link":"https://www.zee5.com/web-series/details/duranga/0-6-4z5193948",
+        "id":5
+      }
+  
+    ],
+    "slidedatanews":[
+      {
+        "title":"Center Bans PFI for 5 Years",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5117550/cover/indiatoday1920desktop466ecbadf18647b4b7bda6c9ad8173c6.jpg",
+        "link":"https://www.zee5.com/live-tv/india-today/0-9-indiatoday",
+        "id":1
+      },
+      {
+        "title":"China President Reappears on state TV",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-externall_1904997942/cover/wion1920desktop333d13f7489c45668b4ccb1f73ea4e70.jpg",
+        "link":"https://www.zee5.com/live-tv/wion/0-9-wion",
+        "id":2
+      },
+      {
+        "title":"Congress Issues Show-Cause Notices Against ..... ",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-externall_1224347986/cover/newsx1920desktop082c3d6606c54e9e93fb872bb0d754e3.jpg",
+        "link":"https://www.zee5.com/movies/details/atithi-bhooto-bhava/0-0-1z5218775",
+        "id":3
+      },
+      {
+        "title":"India Vs South-Africa Today",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z583582/cover/timesnownavbharat1920desktop425301a7fcef4b5dbd1ef9db7a72570f.jpg",
+        "link":"https://www.zee5.com/live-tv/times-now-navbharat/0-9-9z583386",
+        "id":4
+      },
+      {
+        "title":"Ankita Murder case ",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-externall_1511339173/cover/zeenews1920desktop7806290c0e114d9481328223a28e965b.jpg",
+        "link":"https://www.zee5.com/live-tv/zee-news/0-9-zeenews",
+        "id":5
+      }
+      
+  
+  
+    ],
+    "slidedatanewsbody1":[
+      {
+        "title":"Aaj-Tak",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/aajtak117057ed0b609d504a6098d5d3b0c9f822c3.jpg",
+        "link":"https://www.zee5.com/live-tv/aaj-tak/0-9-aajtak",
+        "id":1
+      },
+      {
+        "title":"Zee-News",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/zeenews1170ef9d2835a60641f1be62323e9d345e60.jpg",
+        "link":"https://www.zee5.com/live-tv/zee-news/0-9-zeenews",
+        "id":2
+      },
+      {
+        "title":"India Today",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/list/indiatodayrajeevsardesdai1170e084f08174454d40a2f47ab45cbaf09f.jpg",
+        "link":"https://www.zee5.com/live-tv/india-today/0-9-indiatoday",
+        "id":3
+      },
+      {
+        "title":"Zee-Business",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/list/zeebusiness1170af2e0e4454a1440f87d39a255727708c.jpg",
+        "link":"https://www.zee5.com/live-tv/zee-business/0-9-zeebusiness",
+        "id":4
+      }
+    ],
+    "slidedatanewsbody2":[
+      {
+        "title":"Ranbir Kapoor celebrated his 40th Birthday",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-0-newsauto_6t2vpp54sju0/list/8c665c076a4e838667bf707635ae4d5d1664351397392404originallarge1f06e2a7fa834c659b703e59a7523e0a.jpg",
+        "link":"https://www.zee5.com/news/details/ranbir-kapoor-celebrated-his-40th-birthday-in-mumbai-know-who-reached-ent-live/0-0-newsauto_6t2vpp54sju0",
+        "id":1
+      },
+      {
+        "title":"Sachin Pilot can meet sonia gandhi today",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-0-newsauto_a4ks2tjr3ji0/list/0a1bf200dc8714a25edbc7d2091126731664349524797405originallarge630ec7f003e64df7aa5ee5a8b715f3d2.jpg",
+        "link":"https://www.zee5.com/news/details/top-headlines-sachin-pilot-can-meet-sonia-gandhi-today-amidst-political-turmoil/0-0-newsauto_a4ks2tjr3ji0",
+        "id":2
+      },
+      {
+        "title":"Inaugration of Lata Mangeshkar chowk in up by cm Yogi ",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-0-newsauto_6tal4cs7mu30/list/yogisixteenninelargec6cc40704f794e42924920e0c8210429.jpg",
+        "link":"https://www.zee5.com/news/details/inaugration-of-lata-mangeshkar-chowk-in-ayodhya-by-cm-yogi-adityanath/0-0-newsauto_6tal4cs7mu30",
+        "id":3
+      },
+      {
+        "title":"Kejriwal on delhi liquior row",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_382,h_215,c_scale,f_webp,q_auto:eco/resources/0-0-newsauto_74en2k717ph0/list/6945336019018c353891d0a0dc8f79ad1664350275636159originallarge5a776a253d1740e7bf94e12064552635.jpg",
+        "link":"https://www.zee5.com/news/details/kejriwal-on-delhi-liquor-row/0-0-newsauto_74en2k717ph0",
+        "id":4
+      }
+    ],
+    "slidedatatvbody1":[
+      {
+        "title":"Guddan Tumse na ho payega",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-tvshow_1603815665/portrait/1920x77051139f10f7894807b542e0099c131485.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/guddan-tumse-na-ho-payega/0-6-tvshow_1603815665",
+        "id":1
+      },
+    
+      {
+        "title":"Main hoon Aparajita",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5214664/portrait/1920x7708ed66fa4cb534d95b3e6c15208e99dce.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/main-hoon-aparajita/0-6-4z5214664",
+        "id":2
+      },
+      {
+        "title":"Kundali Bhagya",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-366/portrait/1920x770126fa06f926048bf8125944ea2814207.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/kundali-bhagya/0-6-366",
+        "id":3
+      },
+      {
+        "title":"Bhagya Laxmi",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3392/portrait/1920x770f3f17699f7f5449d97081bd147f44b67.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/bhagya-lakshmi/0-6-3392",
+        "id":4
+      },
+      {
+        "title":"Kumkum Bhagya",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-127/portrait/1920x770f265423203bb48beb4b636283dc91d92.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/kumkum-bhagya/0-6-127",
+        "id":5
+      },
+      {
+        "title":"Sanjog",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5185799/portrait/1920x770cbc14f81a69a453c8646dd450bc289c9.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/sanjog/0-6-4z5185799",
+        "id":6
+      }
+  
+    ],
+    "slidedatatvbody2":[
+      {
+        "title":"Guddan Tumse na ho payega",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-tvshow_1603815665/portrait/1920x77051139f10f7894807b542e0099c131485.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/guddan-tumse-na-ho-payega/0-6-tvshow_1603815665",
+        "id":1
+      },
+      {
+        "title":"Tere bin jiya jaye na",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z525220/portrait/1920x770787ca3eff34e46dc8591e6af985e6722.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/tere-bina-jiya-jaye-na/0-6-4z525220",
+        "id":2
+      },
+      {
+        "title":"Kashibai Bajirao Bhalla ",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z520450/portrait/1920x7707be825d8e0b149478aaa493d90ecf34f.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/kashibai-bajirao-ballal/0-6-4z520450",
+        "id":3
+      },
+      {
+        "title":"Rishton ka manjha",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3522/portrait/1920x7708e597115cbe34523a60336c0eb541c57.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/rishton-ka-manjha/0-6-3522",
+        "id":4
+      },
+      {
+        "title":"Apna time bhi aayega",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3008/portrait/1920x7709428d99d4cc14aa18d12bc98b92adbb0.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/apna-time-bhi-aayega/0-6-3008",
+        "id":5
+      },
+      {
+        "title":"Tujhse hai Rabta",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-tvshow_385599855/portrait/1920x7704b36921d13c64cb5a9c43f725a579a8a.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/tujhse-hai-raabta/0-6-tvshow_385599855",
+        "id":6
+      }
+    ],
+    "slidedatahomebody1":[
+      {
+        "title":"Rangbaaz",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x77077519c4212e549d39a36690eec17509e.jpg",
+        "link":"https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+        "id":1
+      },
+      {
+        "title":"Uri",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7705ef9ce569c0b47708ba73e4543c745e43acb1bf302af439e94601ddbd9733716.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-uri-the-surgical-strike-full-hd-movie-online-on-zee5/0-0-33204",
+        "id":2
+      },
+      {
+        "title":"Bullet Train",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214627/portrait/1920x770da10e51d95a74d62bce2f30739c831fa.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-bullet-train-pre-book-full-hd-movie-online-on-zee5/0-0-1z5214627",
+        "id":3
+      },
+      {
+        "title":"Minnions : Rise of guru",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5226610/portrait/1920x7709e36e0e7f6c84b4a96289b0f321c5d43.jpg",
+        "link":"https://www.zee5.com/movies/details/minions-the-rise-of-gru/0-0-1z5226610",
+        "id":4
+      },
+      {
+        "title":"Apna time bhi aayega",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3008/portrait/1920x7709428d99d4cc14aa18d12bc98b92adbb0.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/apna-time-bhi-aayega/0-6-3008",
+        "id":5
+      },
+      {
+        "title":"Jurassic World Dominion",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214599/portrait/1920x770be7ef3576c2b46ac8bf91788e1076c5f.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-jurassic-world-dominion-full-hd-movie-online-on-zee5/0-0-1z5214599",
+        "id":6
+      }
+    ],
+    "slidedatahomebody2":[
+      {
+        "title":"The Broken News",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b4100d873cc6547a8a4a4c92739160b3f.jpg",
+        "link":"https://www.zee5.com/web-series/details/the-broken-news/0-6-4z5145215",
+        "id":1
+      },
+      {
+        "title":"Tere bin jiya jaye na",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z525220/portrait/1920x770787ca3eff34e46dc8591e6af985e6722.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/tere-bina-jiya-jaye-na/0-6-4z525220",
+        "id":2
+      },
+      {
+        "title":"Kashibai Bajirao Bhalla ",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z520450/portrait/1920x7707be825d8e0b149478aaa493d90ecf34f.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/kashibai-bajirao-ballal/0-6-4z520450",
+        "id":3
+      },
+      {
+        "title":"Rishton ka manjha",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3522/portrait/1920x7708e597115cbe34523a60336c0eb541c57.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/rishton-ka-manjha/0-6-3522",
+        "id":4
+      },
+      {
+        "title":"Rahtra Kavach Om",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5191648/portrait/1920x770902b507035da4963aa771afbadfcb032.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-rashtra-kavach-om-full-hd-movie-online-on-zee5/0-0-1z5191648",
+        "id":5
+      },
+      {
+        "title":"Janhit mein jaari",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x7703b607b59630842e4880220402e4bce7973b9535d9e7b49a287ba4a9996100e95.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-janhit-mein-jaari-full-hd-movie-online-on-zee5/0-0-1z5177236",
+        "id":6
+      }
+    ],
+    "slidedatamoviebody1":[
+      {
+        "title":"Rangbaaz",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x77077519c4212e549d39a36690eec17509e.jpg",
+        "link":"https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+        "id":1
+      },
+      {
+        "title":"Uri",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7705ef9ce569c0b47708ba73e4543c745e43acb1bf302af439e94601ddbd9733716.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-uri-the-surgical-strike-full-hd-movie-online-on-zee5/0-0-33204",
+        "id":2
+      },
+      {
+        "title":"Bullet Train",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214627/portrait/1920x770da10e51d95a74d62bce2f30739c831fa.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-bullet-train-pre-book-full-hd-movie-online-on-zee5/0-0-1z5214627",
+        "id":3
+      },
+      {
+        "title":"Minnions : Rise of guru",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5226610/portrait/1920x7709e36e0e7f6c84b4a96289b0f321c5d43.jpg",
+        "link":"https://www.zee5.com/movies/details/minions-the-rise-of-gru/0-0-1z5226610",
+        "id":4
+      },
+      {
+        "title":"Apna time bhi aayega",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3008/portrait/1920x7709428d99d4cc14aa18d12bc98b92adbb0.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/apna-time-bhi-aayega/0-6-3008",
+        "id":5
+      },
+      {
+        "title":"Jurassic World Dominion",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214599/portrait/1920x770be7ef3576c2b46ac8bf91788e1076c5f.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-jurassic-world-dominion-full-hd-movie-online-on-zee5/0-0-1z5214599",
+        "id":6
+      }
+    ],
+    "slidedatamoviebody2":[
+      {
+        "title":"The Broken News",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b4100d873cc6547a8a4a4c92739160b3f.jpg",
+        "link":"https://www.zee5.com/web-series/details/the-broken-news/0-6-4z5145215",
+        "id":1
+      },
+      {
+        "title":"Tere bin jiya jaye na",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z525220/portrait/1920x770787ca3eff34e46dc8591e6af985e6722.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/tere-bina-jiya-jaye-na/0-6-4z525220",
+        "id":2
+      },
+      {
+        "title":"Kashibai Bajirao Bhalla ",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z520450/portrait/1920x7707be825d8e0b149478aaa493d90ecf34f.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/kashibai-bajirao-ballal/0-6-4z520450",
+        "id":3
+      },
+      {
+        "title":"Rishton ka manjha",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3522/portrait/1920x7708e597115cbe34523a60336c0eb541c57.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/rishton-ka-manjha/0-6-3522",
+        "id":4
+      },
+      {
+        "title":"Rahtra Kavach Om",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5191648/portrait/1920x770902b507035da4963aa771afbadfcb032.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-rashtra-kavach-om-full-hd-movie-online-on-zee5/0-0-1z5191648",
+        "id":5
+      },
+      {
+        "title":"Janhit mein jaari",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x7703b607b59630842e4880220402e4bce7973b9535d9e7b49a287ba4a9996100e95.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-janhit-mein-jaari-full-hd-movie-online-on-zee5/0-0-1z5177236",
+        "id":6
+      }
+    ],
+    "slidedatawebbody1":[
+      {
+        "title":"Rangbaaz",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x77077519c4212e549d39a36690eec17509e.jpg",
+        "link":"https://www.zee5.com/web-series/details/rangbaaz-darr-ki-rajneeti/0-6-4z5173774",
+        "id":1
+      },
+      {
+        "title":"Uri",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7705ef9ce569c0b47708ba73e4543c745e43acb1bf302af439e94601ddbd9733716.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-uri-the-surgical-strike-full-hd-movie-online-on-zee5/0-0-33204",
+        "id":2
+      },
+      {
+        "title":"Bullet Train",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214627/portrait/1920x770da10e51d95a74d62bce2f30739c831fa.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-bullet-train-pre-book-full-hd-movie-online-on-zee5/0-0-1z5214627",
+        "id":3
+      },
+      {
+        "title":"Minnions : Rise of guru",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5226610/portrait/1920x7709e36e0e7f6c84b4a96289b0f321c5d43.jpg",
+        "link":"https://www.zee5.com/movies/details/minions-the-rise-of-gru/0-0-1z5226610",
+        "id":4
+      },
+      {
+        "title":"Apna time bhi aayega",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3008/portrait/1920x7709428d99d4cc14aa18d12bc98b92adbb0.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/apna-time-bhi-aayega/0-6-3008",
+        "id":5
+      },
+      {
+        "title":"Jurassic World Dominion",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5214599/portrait/1920x770be7ef3576c2b46ac8bf91788e1076c5f.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-jurassic-world-dominion-full-hd-movie-online-on-zee5/0-0-1z5214599",
+        "id":6
+      }
+    ],
+    "slidedatawebbody2":[
+      {
+        "title":"The Broken News",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b4100d873cc6547a8a4a4c92739160b3f.jpg",
+        "link":"https://www.zee5.com/web-series/details/the-broken-news/0-6-4z5145215",
+        "id":1
+      },
+      {
+        "title":"Tere bin jiya jaye na",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z525220/portrait/1920x770787ca3eff34e46dc8591e6af985e6722.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/tere-bina-jiya-jaye-na/0-6-4z525220",
+        "id":2
+      },
+      {
+        "title":"Kashibai Bajirao Bhalla ",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z520450/portrait/1920x7707be825d8e0b149478aaa493d90ecf34f.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/kashibai-bajirao-ballal/0-6-4z520450",
+        "id":3
+      },
+      {
+        "title":"Rishton ka manjha",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3522/portrait/1920x7708e597115cbe34523a60336c0eb541c57.jpg",
+        "link":"https://www.zee5.com/tv-shows/details/rishton-ka-manjha/0-6-3522",
+        "id":4
+      },
+      {
+        "title":"Rahtra Kavach Om",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5191648/portrait/1920x770902b507035da4963aa771afbadfcb032.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-rashtra-kavach-om-full-hd-movie-online-on-zee5/0-0-1z5191648",
+        "id":5
+      },
+      {
+        "title":"Janhit mein jaari",
+        "image":"https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x7703b607b59630842e4880220402e4bce7973b9535d9e7b49a287ba4a9996100e95.jpg",
+        "link":"https://www.zee5.com/movies/details/watch-janhit-mein-jaari-full-hd-movie-online-on-zee5/0-0-1z5177236",
+        "id":6
+      }
+    ]
+  
+    
+  }

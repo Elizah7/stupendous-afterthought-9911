@@ -30,9 +30,13 @@ const Navbar = ()=>{
     return (
         <>
         <Container display="flex" border="1px solid red" h="80px" w="100%">
-         <Image src="stupendous-afterthought-9911\my-app\src\logo\Wal.png"/>
+         <Image   borderRadius='full'
+           boxSize='150px'
+           src='stupendous-afterthought-9911\my-app\src\logo\Wal.png'
+           alt='Dan Abramov'
+         />
         {
-            linkArr.map((ele)=><Link to={ele.to}>{ele.title}</Link>)
+            linkArr.map((ele,i)=><Link key={i} to={ele.to}>{ele.title}</Link>)
         }
         </Container>
  
