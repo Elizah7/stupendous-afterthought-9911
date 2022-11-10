@@ -1,11 +1,11 @@
 
-
+import React from "react"
 
 const Kids = ()=>{
 
     return(
-        <>
-   <h1>hi home</h1>
+         <>
+           <h1>hi kids</h1>
         </>
     )
 }

@@ -1,8 +1,11 @@
+import React from "react"
+import Slider from "./Slider"
 const Home = ()=>{
 
     return(
         <>
-   <h1>hi Home</h1>
+        <Slider url="http://localhost:8080/slidedatahome" />
+          <h1>hi Home</h1>
         </>
     )
 }
