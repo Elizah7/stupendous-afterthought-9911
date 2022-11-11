@@ -11,7 +11,7 @@ const Slider = (url)=>{
      
     useEffect(()=>{
         (async () => {
-            const users = await GetData(url);
+            const users = await GetData(url.url);
             setData(users);
           })();
     
@@ -19,29 +19,24 @@ const Slider = (url)=>{
     const style = {
 
       height:"400px",
-      width:"90%",
-      margin:"auto"  ,
+      width:"85%",
+      margin:"auto",
+      marginTop:"5%"
 
   }
-  const style2 = {
-    
-    height:"400px",
-    width:"100%",
-    margin:"auto",
 
-}
 
     return (
       <div style={style} className="slide-container">
         <Slide>
         {/* <Zoom> */}
         {/* <Fade> */}
-         {data.map((slideImage, index)=> (
+         {data.map((slideImage)=> (
         
-            <div style={style2} className="each-slide" key={index}>
-                <Slidepic src={slideImage.image} />
           
-            </div>
+                <Slidepic key={slideImage.id} className="each-slide" src={slideImage.image} />
+          
+         
           ))} 
           {/* </Fade> */}
           {/* </Zoom> */}
