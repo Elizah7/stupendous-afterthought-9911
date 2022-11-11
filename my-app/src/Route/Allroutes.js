@@ -5,6 +5,8 @@ import Men from "../Component/Men"
 import Login from "../Component/Login"
 import Kids from "../Component/Kids"
 import Women from "../Component/Women"
+import Productpage from "../Component/Productpage"
+import Singleproduct from "../Component/Singleproduct"
 const Allroutes = ()=>{
   
     return (
@@ -15,6 +17,8 @@ const Allroutes = ()=>{
             <Route path="/women" element={<Women/>}></Route>
             <Route path="/kids" element={<Kids/>}></Route>
             <Route path="/login" element={<Login></Login>}></Route>
+            <Route path="/productpage" element={<Productpage></Productpage>}></Route>
+            <Route path="/productpage/:id" element={<Singleproduct></Singleproduct>}></Route>
           </Routes>
  
 
