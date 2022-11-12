@@ -3,5 +3,23 @@
 .menu-of-brand:hover{
      
  cursor: pointer;
+}
+.main-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    width:"10px";
+    height:"800px";
+    margin-top:"20px";
+    border: 1px solid blue;
+}
 
+.container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    column-gap: 2%;
+    border: 1px solid red;
+    align-items: center;
+     text-align: center;
+     width: 70%;
+     margin-left: 30%;
 }

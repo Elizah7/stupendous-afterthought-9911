@@ -4,12 +4,12 @@ import {useState,useEffect} from "react"
 import { GetData } from "./Getdata"
 const SingleProduct = ()=>{
 
-    const params = useParams()
-   
+    const {id} = useParams()
+   console.log(id)
     const [state,setState] = useState([])
     useEffect(()=>{
          let data = async()=>{
-             let res = await GetData(`http://`)
+             let res = await GetData(`http://localhost:8080/homedata?id=${id}`)
              console.log(res)
          }
          data()
@@ -17,7 +17,7 @@ const SingleProduct = ()=>{
 
     return (
         <>
-          <h1></h1>
+          <h1>hi</h1>
         </>
     )
 

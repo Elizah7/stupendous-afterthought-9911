@@ -4,6 +4,51 @@ import { GetData } from "./Getdata";
 import Img from "./Img";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
+import "../style/style.css"
+export const style={
+    display:"flex",
+    width:"80%",
+    height:"400px",
+    margin:"auto",
+    marginTop:"5%",
+    justifyContent:"space-between"
+ }
+ export const stylecont = {
+    display: "flex",
+   alignItems:"center",
+   justifyContent:"space-between",
+    width:"80%",
+    height:"400px",
+    margin:'auto',
+    marginTop:"20px",
+
+  
+ }
+export const style2={
+    width:"24%",
+    height:"90%",
+
+ }
+ export const style3 ={
+     width:"200px",
+     height:"200px",
+
+ }
+ export const styleh4={
+    
+    fontSize:"120%",
+    color:"gray"
+ }
+ export const stylepara= {
+     color:"gray",
+     fontSize:"90%"
+ }
+export const styleprice = {
+     color:"red",
+ }
+ export const styleh1={
+     fontSize:"150%"
+ }
 const SapleProd = (url)=>{
        const [state,setState] = useState([])
        useEffect(()=>{
@@ -14,38 +59,7 @@ const SapleProd = (url)=>{
             data()
        },[])
 
-       const style={
-          display:"flex",
-         
-          width:"90%",
-          height:"400px",
-          margin:"auto",
-          marginTop:"5%",
-          justifyContent:"space-between"
-       }
-       const style2={
-            width:"20%",
-            height:"100%"
-       }
-       const style3 ={
-           width:"100%",
-           height:"60%"
-       }
-       const styleh4={
-          
-          fontSize:"90%",
-          color:"gray"
-       }
-       const stylepara= {
-           color:"gray",
-           fontSize:"70%"
-       }
-       const styleprice = {
-           color:"red",
-       }
-       const styleh1={
-           fontSize:"150%"
-       }
+      
 
     let navigate = useNavigate()
        let handleClick2 = ()=>{
@@ -54,13 +68,14 @@ const SapleProd = (url)=>{
     return (
         <>
           <h1 style={styleh1}>Trending Now</h1>
-          <div className="main-container" style={style}>
+          <div style={stylecont}>
             {
-                state.map(ele=> <Link to={`/productpage/${ele.id}`}>  <div style={style2} key={ele.id}>
-                    <Img style={style3} src={ele.image}/> <h4 style={styleh4}>{ele.title}</h4>
+                state.map(ele=><Link to={`/productpage/${ele.id}`} style={style2} key={ele.id}> <div>
+                    <Img style3={style3} src={ele.image}/> <h4 style={styleh4}>{ele.title}</h4>
                     <p style={stylepara}>{ele.para}</p>
                     <p style={styleprice}>$ {ele.price}</p>
-                </div> </Link>)
+                </div>
+                </Link> )
             }
           </div>
           <button onClick={()=>handleClick2()}>Shop More</button>
