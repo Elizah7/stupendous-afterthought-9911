@@ -10,7 +10,7 @@ const Women = ()=>{
              <Slider url="http://localhost:8080/slidedatawomen"/>
                <Para/>
              <Menu/>
-             <SapleProd url ="http://localhost:8080/womendata?_limit=4"/>
+             <SapleProd navi= {"/productpage4"} url ="http://localhost:8080/womendata?_limit=4"/>
         </>
     
     )

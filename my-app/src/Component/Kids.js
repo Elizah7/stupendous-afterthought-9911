@@ -11,7 +11,7 @@ const Kids = ()=>{
         <Slider url="http://localhost:8080/slidedatakids"/>
         <Para/>
         <Menu/>
-        <SapleProd url ="http://localhost:8080/kidsdata?_limit=4"/>
+        <SapleProd navi= {"/productpage2"} url ="http://localhost:8080/kidsdata?_limit=4"/>
         </>
      
     )

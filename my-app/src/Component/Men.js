@@ -10,7 +10,7 @@ const Men = ()=>{
       <Slider url="http://localhost:8080/slidedatamen"/>
        <Para/>
        <Menu/>
-       <SapleProd url ="http://localhost:8080/mendata?_limit=4"/>
+       <SapleProd navi= {"/productpage3"} url ="http://localhost:8080/mendata?_limit=4"/>
         </>
      
     )

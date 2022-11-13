@@ -1,18 +1,24 @@
+import React from "react";
 import { createContext, useState } from "react";
-import { GetData } from "../Component/Getdata";
+
 
 export const Apicontext = createContext()
 
 const ApiContextProvider = ({children})=>{
-      const getDataProd = async(url)=>{
-          
-        let  fetchedData = await GetData(url)
-         console.log(fetchedData)
-      }
+      const [isAuth,setIsauth] =useState(false)
     
+       const loginuser = ()=>{
+               setIsauth(true)
+       } 
+       const logoutuser = ()=>{
+            setIsauth(false)
+       }
+       console.log(isAuth)
+       const value = {loginuser,isAuth,logoutuser}
        return (
         <>
-        <Apicontext.Provider value={getDataProd}>
+        
+        <Apicontext.Provider value={value}>
             {children}
         </Apicontext.Provider>
         </>
