@@ -9,7 +9,7 @@ const SingleProduct = ()=>{
     const [state,setState] = useState([])
     useEffect(()=>{
          let data = async()=>{
-             let res = await GetData(`http://localhost:8080/homedata?id=${id}`)
+             let res = await GetData(`http://localhost:8080/mendata?id=${id}`)
              console.log(res)
          }
          data()

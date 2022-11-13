@@ -9,16 +9,18 @@ const SingleProduct = ()=>{
     const [state,setState] = useState([])
     useEffect(()=>{
          let data = async()=>{
-             let res = await GetData(`http://localhost:8080/homedata?id=${id}`)
-             console.log(res)
+             let res = await GetData(`http://localhost:8080/kidsdata?id=${id}`)
+             setState(res)
          }
          data()
     },[])
 
     return (
-        <>
-          <h1>hi</h1>
-        </>
+        <div>
+              {
+                state.map(ele=> <h2>{ele.title}</h2>)
+              }
+        </div>
     )
 
 }

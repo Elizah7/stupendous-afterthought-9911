@@ -3,14 +3,19 @@ import Slider from "./Slider"
 import Menu from "./Menu"
 import Para from "./Para"
 import SapleProd from "./SampleProd"
-const Home = ()=>{
+import { useContext } from "react"
+import { Apicontext } from "../Auth/Context"
 
+
+const Home = ()=>{
+    const {isAuth} = useContext(Apicontext)
+    console.log(isAuth)
     return(
         <>
         <Slider url="http://localhost:8080/slidedatahome" />
          <Para/>
          <Menu/>
-         <SapleProd url ="http://localhost:8080/homedata?_limit=4"/>
+         <SapleProd navi={"/productpage"} url ="http://localhost:8080/homedata?_limit=4"/>
         </>
     )
 }
